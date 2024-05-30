@@ -1,2 +1,2 @@
-# carrot
-Carrot Text to Speech Desktop Application download
+# Carrot
+Download for [Carrot TTS Application](https://carrot.sellersew.com).
